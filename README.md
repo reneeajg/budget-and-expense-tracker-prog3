@@ -25,31 +25,6 @@ The application is structured around several key classes:
 -   `Bank.java`: A simple data class to hold a bank's name and account number.
 -   `DateTime.java`: A helper class for managing date and time information for expenses and budgets.
 
-## Getting Started
-
-### Prerequisites
-
--   Java Development Kit (JDK) installed.
-
-### Compilation and Execution
-
-1.  Clone the repository to your local machine.
-2.  Navigate to the root directory of the project in your terminal.
-3.  Compile all the Java source files:
-    ```sh
-    javac *.java
-    ```
-4.  Run the application:
-    ```sh
-    java ExpenseTracker
-    ```
-
-### Logging In
-
-The application uses hardcoded user credentials for demonstration purposes. Use the following to log in:
-
--   **Email**: `mariabclara@dlsu.edu.ph`
--   **Password**: `passwrod`
 
 ## Usage
 
