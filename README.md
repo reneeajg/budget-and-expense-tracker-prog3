@@ -1,7 +1,5 @@
 # Personal Expense Tracker
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/reneeajg/CBPROG3)
-
 A command-line based personal expense and budget tracking application built in Java. This tool allows users to log their expenses, categorize them, set budgets, and gain insights into their spending habits.
 
 ## Features
